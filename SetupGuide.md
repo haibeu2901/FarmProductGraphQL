@@ -45,7 +45,7 @@ cd Desktop
 ### 1.2 Clone repository
 ```bash
 # Clone dự án từ GitHub
-git clone https://github.com/your-username/farm-products-system.git
+git clone https://github.com/haibeu2901/FarmProductGraphQL.git
 
 # Di chuyển vào thư mục dự án
 cd farm-products-system
