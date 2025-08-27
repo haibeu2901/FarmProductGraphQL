@@ -1,0 +1,78 @@
+.account-list-container {
+  width: 100%;
+  min-height: calc(100vh - 70px); /* Account for navigation height */
+  margin: 0;
+  padding: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  box-sizing: border-box;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.page-title {
+  text-align: center;
+  color: white;
+  margin-bottom: 30px;
+  font-size: 2.5rem;
+  font-weight: 600;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.accounts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+  padding: 20px 0;
+}
+
+.loading {
+  text-align: center;
+  padding: 40px;
+  font-size: 1.2rem;
+  color: white;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.error {
+  text-align: center;
+  padding: 40px;
+  font-size: 1.2rem;
+  color: #ff6b6b;
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid #ff6b6b;
+  border-radius: 8px;
+  margin: 20px auto;
+  max-width: 600px;
+  backdrop-filter: blur(10px);
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .accounts-grid {
+    grid-template-columns: 1fr;
+    gap: 15px;
+  }
+  
+  .page-title {
+    font-size: 2rem;
+  }
+  
+  .account-list-container {
+    padding: 15px;
+  }
+  
+  .account-details {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .account-id {
+    min-width: auto;
+    width: 100%;
+  }
+}
+
+@media (min-width: 1400px) {
+  .accounts-grid {
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  }
+}

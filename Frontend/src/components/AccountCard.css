@@ -1,0 +1,88 @@
+.account-card {
+  background: white;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border: 1px solid #e0e0e0;
+}
+
+.account-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
+}
+
+.account-name {
+  color: #2c3e50;
+  margin: 0 0 10px 0;
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+
+.account-username {
+  color: #7f8c8d;
+  margin: 0 0 15px 0;
+  line-height: 1.5;
+  font-size: 0.95rem;
+  font-style: italic;
+}
+
+.account-id {
+  color: #7f8c8d;
+  margin: 0 0 15px 0;
+  line-height: 1.5;
+  font-size: 0.95rem;
+}
+
+.account-details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 15px;
+  padding-top: 15px;
+  border-top: 1px solid #ecf0f1;
+}
+
+.account-username {
+  background-color: #f8f9fa;
+  color: #6c757d;
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+.account-password {
+  color: #95a5a6;
+  font-weight: 500;
+  font-size: 1rem;
+  font-family: 'Courier New', monospace;
+}
+
+.account-email {
+  margin-top: 10px;
+  color: #3498db;
+  font-size: 0.9rem;
+  padding: 5px 0;
+  border-top: 1px solid #ecf0f1;
+}
+
+.account-role {
+  margin-top: 5px;
+  color: #e67e22;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.account-phone {
+  margin-top: 5px;
+  color: #9b59b6;
+  font-size: 0.9rem;
+}
+
+.account-address {
+  margin-top: 5px;
+  color: #27ae60;
+  font-size: 0.9rem;
+  line-height: 1.3;
+}
