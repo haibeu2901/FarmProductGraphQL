@@ -1,0 +1,15 @@
+D:\1FPTUni\2ndyear\Semester2\PRN212\Code\GraphQL\Backend\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\1FPTUni\2ndyear\Semester2\PRN212\Code\GraphQL\Backend\Repository\bin\Debug\net8.0\Repository.dll
+D:\1FPTUni\2ndyear\Semester2\PRN212\Code\GraphQL\Backend\Repository\bin\Debug\net8.0\Repository.pdb
+D:\1FPTUni\2ndyear\Semester2\PRN212\Code\GraphQL\Backend\Repository\bin\Debug\net8.0\BusinessObject.dll
+D:\1FPTUni\2ndyear\Semester2\PRN212\Code\GraphQL\Backend\Repository\bin\Debug\net8.0\BusinessObject.pdb
+D:\1FPTUni\2ndyear\Semester2\PRN212\Code\GraphQL\Backend\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+D:\1FPTUni\2ndyear\Semester2\PRN212\Code\GraphQL\Backend\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\1FPTUni\2ndyear\Semester2\PRN212\Code\GraphQL\Backend\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\1FPTUni\2ndyear\Semester2\PRN212\Code\GraphQL\Backend\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\1FPTUni\2ndyear\Semester2\PRN212\Code\GraphQL\Backend\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\1FPTUni\2ndyear\Semester2\PRN212\Code\GraphQL\Backend\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+D:\1FPTUni\2ndyear\Semester2\PRN212\Code\GraphQL\Backend\Repository\obj\Debug\net8.0\Repository.dll
+D:\1FPTUni\2ndyear\Semester2\PRN212\Code\GraphQL\Backend\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\1FPTUni\2ndyear\Semester2\PRN212\Code\GraphQL\Backend\Repository\obj\Debug\net8.0\Repository.pdb
+D:\1FPTUni\2ndyear\Semester2\PRN212\Code\GraphQL\Backend\Repository\obj\Debug\net8.0\ref\Repository.dll
